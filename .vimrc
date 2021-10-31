@@ -1,3 +1,4 @@
+"Using the vim-plug package manager. You need to get that first
 call plug#begin()
 
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
